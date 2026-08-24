@@ -55,3 +55,34 @@ I use AI as a productivity multiplier — not as a replacement for engineering.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+<h2>📊 GitHub Activity</h2>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<h3>📈 My Stats</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&border_radius=12"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>📁 My Projects</h3>
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&theme=github_dark&hide_border=true&border_radius=12"/>
+</a>
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY_2&theme=github_dark&hide_border=true&border_radius=12"/>
+</a>
+
+</td>
+
+</tr>
+</table>
