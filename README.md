@@ -55,7 +55,7 @@ I use AI as a productivity multiplier—not as a replacement for engineering.
 ---
 
 # 📊 GitHub Stats
-<img width="820" height="389" alt="ssd" src="https://github.com/user-attachments/assets/56f29e1e-4c3f-40b6-b38c-73b127a3f38b" />
+<img width="820" height="189" alt="ssd" src="https://github.com/user-attachments/assets/56f29e1e-4c3f-40b6-b38c-73b127a3f38b" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
