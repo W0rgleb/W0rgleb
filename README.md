@@ -15,87 +15,32 @@ from 🇺🇦 Ukraine
 
 ---
 
-# 🤝 Connect with Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/андрій-пліш-0bb1b124b/">
-<img height="34" src="./images/linkedin-dark.svg"/>
-</a>
-
-<a href="https://www.instagram.com/cu_cum_beer/">
-<img height="34" src="./images/instagram-dark.svg"/>
-</a>
-
-<a href="https://www.youtube.com/channel/UCSvIzCteyZh9sVV9oPVU42w">
-<img height="34" src="./images/youtube-dark.svg"/>
-</a>
-
-</p>
-
----
-
 # 🛠 Tech Stack
 
 <p align="center">
 
-<a href="https://nextjs.org">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
+<a href="https://isocpp.org">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
 </a>
 
-<a href="https://react.dev">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-</a>
-
-<a href="https://reactnative.dev">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-</a>
-
-<a href="https://www.typescriptlang.org">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
 </a>
 
-<a href="https://tailwindcss.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-</a>
-
-<a href="https://ui.shadcn.com">
-<img src="https://ui.shadcn.com/favicon.ico" width="40"/>
-</a>
-
-<a href="https://www.postgresql.org">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-</a>
-
-<a href="https://www.mysql.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</a>
-
-<a href="https://git-scm.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<a href="https://godotengine.org">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="45"/>
 </a>
 
 <a href="https://github.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 </a>
 
-<a href="https://aws.amazon.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
-</a>
-
-<a href="https://cloud.google.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
-</a>
-
-<a href="https://www.figma.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-</a>
-
 </p>
+
 
 ---
 
