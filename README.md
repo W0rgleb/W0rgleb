@@ -50,37 +50,11 @@ I use AI as a productivity multiplier—not as a replacement for engineering.
 
 **Daily tools**
 
-- Cursor
-- Claude Code
 - ChatGPT
-
-AI helps me accelerate implementation while I remain fully responsible for:
-
-- Software architecture
-- Business logic
-- Problem solving
-- Debugging
-- Code quality
-- Performance optimization
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img src="profile/stats.svg" width="48%"/>
-<img src="profile/languages.svg" width="48%"/>
-</p>
-<p align="center">
-<img src="profile/streak.svg"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Andriy723&style=flat&color=blue&label=Profile+Views"/>
-</p>
-
-<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
