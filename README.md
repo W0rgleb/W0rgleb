@@ -16,33 +16,46 @@ from 🇺🇦 Ukraine. I don't work anywhere yet.
 
 ---
 
-# 🛠 Tech Stack
+<h2>🛠 Tech Stack</h2>
 
-<p align="center">
-
+<table>
+<tr>
+<td align="center" width="120">
 <a href="https://isocpp.org">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br>
+<b>C++</b>
 </a>
+</td>
 
+<td align="center" width="120">
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/><br>
+<b>C#</b>
 </a>
+</td>
 
+<td align="center" width="120">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>
+<b>JavaScript</b>
 </a>
+</td>
 
+<td align="center" width="120">
 <a href="https://godotengine.org">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50"/><br>
+<b>Godot</b>
 </a>
+</td>
 
+<td align="center" width="120">
 <a href="https://github.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>
+<b>GitHub</b>
 </a>
-
-</p>
-
-</p>
+</td>
+</tr>
+</table>
 
 
 ---
