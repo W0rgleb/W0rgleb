@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-from 🇺🇦 Ukraine
+from 🇺🇦 Ukraine. I don't work anywhere yet.
 </h3>
 ---
 
