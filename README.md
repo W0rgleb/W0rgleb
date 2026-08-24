@@ -4,6 +4,7 @@
   <img src="<img width="1920" height="1080" alt="doom-dark-ages" src="https://github.com/user-attachments/assets/ed891007-18b8-44da-a340-9822cf4e376a" />
 " width="700" height="400">
 </p>
+<img width="1920" height="1080" alt="doom-dark-ages" src="https://github.com/user-attachments/assets/3fb857cb-c2a4-4b59-90c8-dfb3848d438c" />
 
 <h2>Core Skills</h2>
 
