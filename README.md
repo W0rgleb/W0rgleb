@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Wargleb</h1>
 
 <p align="center">
-  <img src=""C:\Users\bryha\Downloads\Steam pr\doom-doom-the-dark-ages.gif"" width="400" height="400">
+  <img src=""C:\Users\bryha\Downloads\Steam pr\doom-doom-the-dark-ages.gif"" width="400" height="800">
 </p>
 
 <h2>Core Skills</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,github,godot" height="45">
+  <img src="https://skillicons.dev/icons?i=cpp,html,js,github,godot" height="45">
 </p>
 
 <h2>Socials</h2>
