@@ -1,25 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hi%20there!%20I'm%20Andrii%20👋&fontSize=42&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hi%20there!%20I'm%20Roman%20👋&fontSize=42&fontAlignY=35"/>
 </p>
 
 <h3 align="center">
-Full-Stack Developer from 🇺🇦 Ukraine
+from 🇺🇦 Ukraine
 </h3>
-
-<p align="center">
-Building modern web applications with Next.js, React and TypeScript.
-</p>
-
 ---
 
 # 👨‍💻 About Me
-
-- 💼 Full-Stack Developer with **2+ years of commercial experience in building wed applications**
-- ⚛️ **1+ years** of commercial experience with **Next.js**, **Typescript**, **Tailwind**, **PostgreSQL**, **MySQL**, **Node.js**, **Express.js** and **React**
-- 📱 Non-commercial experience with **React Native**, **Java**, **Python** and **Firebase**
-- 💙 Passionate about clean architecture, scalable applications and great UX
-- 🤖 I use AI tools such as **Cursor**, **Claude Code**, and **ChatGPT** to boost productivity while independently designing architecture, implementing business logic, solving problems, debugging, and maintaining code quality.
-- 📍 Ukraine
+💀 I know nothing  
+🧠 I understand almost nothing  
+💻 Sometimes I make something work  
+🐛 Most of the time I create bugs
 
 ---
 
