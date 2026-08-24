@@ -1,4 +1,5 @@
-<img width="1920" height="850" alt="doom-dark-ages" src="https://github.com/user-attachments/assets/3fb857cb-c2a4-4b59-90c8-dfb3848d438c" />
+
+
 
 <h2>Core Skills</h2>
 
