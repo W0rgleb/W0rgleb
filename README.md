@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\bryha\Downloads\Steam pr\doom-doom-the-dark-ages.gif"" width="100%">
+  <img src=""C:\Users\bryha\Downloads\Steam pr\doom-doom-the-dark-ages.gif"" width="">
 </p>
 <table>
 <tr>
