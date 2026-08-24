@@ -3,7 +3,7 @@
 <h2>Core Skills</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,html,js,github,godot" height="45">
+  <img src="https://skillicons.dev/icons?i=cpp,html,js,github,cs,godot" height="45">
 </p>
 
 <h2>Socials</h2>
