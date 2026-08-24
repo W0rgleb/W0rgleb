@@ -55,7 +55,7 @@ I use AI as a productivity multiplier—not as a replacement for engineering.
 ---
 
 # 📊 GitHub Stats
-<img width="480" height="320" alt="Bbs Tumbleweed Sticker by Hotel Esplanade Resort   Spa" src="https://github.com/user-attachments/assets/f343252e-c057-44ff-aab1-768ab887de71" />
+<img width="480" height="120" alt="Bbs Tumbleweed Sticker by Hotel Esplanade Resort   Spa" src="https://github.com/user-attachments/assets/f343252e-c057-44ff-aab1-768ab887de71" />
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
