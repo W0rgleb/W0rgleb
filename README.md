@@ -5,13 +5,14 @@
   
 from 🇺🇦 Ukraine. I don't work anywhere yet.
 
-  
-</h3>
+---
+
 # 👨‍💻 About Me
-💀 I know nothing  
-🧠 I understand almost nothing  
-💻 Sometimes I make something work  
-🐛 Most of the time I create bugs
+
+- 💀 I know nothing  
+- 🧠 I understand almost nothing  
+- 💻 Sometimes I make something work  
+- 🐛 Most of the time I create bugs
 
 ---
 
