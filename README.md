@@ -2,14 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hi%20there!%20I'm%20Roman%20👋&fontSize=42&fontAlignY=35"/>
 </p>
 <h3 align="center">
+  
 from 🇺🇦 Ukraine. I don't work anywhere yet.
+  
 </h3>
 # 👨‍💻 About Me
 💀 I know nothing  
 🧠 I understand almost nothing  
 💻 Sometimes I make something work  
 🐛 Most of the time I create bugs
+
 ---
+
 # 🛠 Tech Stack
 
 <p align="center">
