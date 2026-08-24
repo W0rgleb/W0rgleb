@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wargleb</h1>
 
 <p align="center">
-  <img src="C:\Users\bryha\Downloads\Steam pr\doom-dark-ages.jpg" width="700" height="400">
+  <img src="<img width="1920" height="1080" alt="doom-dark-ages" src="https://github.com/user-attachments/assets/ed891007-18b8-44da-a340-9822cf4e376a" />
+" width="700" height="400">
 </p>
 
 <h2>Core Skills</h2>
