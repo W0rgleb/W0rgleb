@@ -21,23 +21,19 @@
 
 <p align="center">
   <a href="https://isocpp.org">
-    <img src="https://img.shields.io/badge/C%2B%2B-1E1E1E?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=111111&color=2B2B2B"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-24292F?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   </a>
-  
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/C%23-1E1E1E?style=for-the-badge&logo=csharp&logoColor=white&labelColor=111111&color=2B2B2B"/>
+    <img src="https://img.shields.io/badge/C%23-24292F?style=for-the-badge&logo=csharp&logoColor=white"/>
   </a>
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=111111&color=2B2B2B"/>
+    <img src="https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&logo=javascript&logoColor=white"/>
   </a>
-  
   <a href="https://godotengine.org">
-    <img src="https://img.shields.io/badge/Godot-1E1E1E?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=111111&color=2B2B2B"/>
+    <img src="https://img.shields.io/badge/Godot-24292F?style=for-the-badge&logo=godotengine&logoColor=white"/>
   </a>
-  
   <a href="https://github.com">
-    <img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white&labelColor=111111&color=2B2B2B"/>
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
