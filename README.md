@@ -19,48 +19,27 @@
 
 <h2>🛠 Tech Stack</h2>
 
-<table>
-<tr>
-
-<td align="center" width="120">
+<p align="center">
   <a href="https://isocpp.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-    <br>
-    <b>C++</b>
+    <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
   </a>
-</td>
 
-<td align="center" width="120">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
-    <br>
-    <b>C#</b>
+    <img src="https://skillicons.dev/icons?i=cs" height="60"/>
   </a>
-</td>
 
-<td align="center" width="120">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-    <br>
-    <b>JavaScript</b>
+    <img src="https://skillicons.dev/icons?i=js" height="60"/>
   </a>
-</td>
 
-<td align="center" width="120">
   <a href="https://godotengine.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50"/>
-    <br>
-    <b>Godot</b>
+    <img src="https://skillicons.dev/icons?i=godot" height="60"/>
   </a>
-</td>
 
-<td align="center" width="120">
   <a href="https://github.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-    <br>
-    <b>GitHub</b>
+    <img src="https://skillicons.dev/icons?i=github" height="60"/>
   </a>
-</td>
+</p>
 
 </tr>
 </table>
