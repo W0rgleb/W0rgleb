@@ -38,6 +38,9 @@ I use AI as a productivity multiplier — not as a replacement for engineering.
 ### Daily tools
 
 - 🤖 ChatGPT
+- 🤖 Claude
+  
+
 
 ---
 
