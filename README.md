@@ -21,29 +21,17 @@ I'm still learning and sometimes programming can be difficult for me, but I'm tr
 
 ---
 
-<h2>🛠 Tech Stack</h2>
-
-<p align="center">
-  <a href="https://isocpp.org">
-    <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
-  </a>
-
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://skillicons.dev/icons?i=cs" height="60"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" height="60"/>
-  </a>
-
-  <a href="https://godotengine.org">
-    <img src="https://skillicons.dev/icons?i=godot" height="60"/>
-  </a>
-
-  <a href="https://github.com">
-    <img src="https://skillicons.dev/icons?i=github" height="60"/>
-  </a>
-</p>
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+ 
 ---
 
 # 🤖 AI-Assisted Development
