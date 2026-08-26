@@ -21,7 +21,7 @@ I'm still learning and sometimes programming can be difficult for me, but I'm tr
 
 ---
 <p align="center"> 
-<img src="https://stats.pphat.top/icons?name=html,cpp,cs,js,git,css,github&effect=wave&columns=6" /> </p>
+<img src="https://stats.pphat.top/icons?name=html,cpp,cs,js,git,css,github&effect=wave&columns=7" /> </p>
 ---
 
 # 🤖 AI-Assisted Development
