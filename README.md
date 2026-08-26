@@ -20,9 +20,8 @@ I'm still learning and sometimes programming can be difficult for me, but I'm tr
 - 🐛 Most of the time I create bugs
 
 ---
-<p align="center">
-  <img src="https://stats.pphat.top/icons?name=html,css,js,git,github&effect=wave&columns=5" />
-</p>
+<p align="center"> 
+<img src="https://stats.pphat.top/icons?name=html,css,js,git,github,godot&effect=wave&columns=6" /> </p>
 ---
 
 # 🤖 AI-Assisted Development
